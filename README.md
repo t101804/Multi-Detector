@@ -12,7 +12,7 @@
 </blockquote>
 
 <p align="center">
-  <a href="#getting-started">Getting started</a>&nbsp;|&nbsp;<a href="https://github.com/t101804/Multi-Detector/issues">Add Requests</a>&nbsp;|&nbsp;<a href="https://github.com/t101804/Multi-Detector/">Downloads Part</a>&nbsp;|&nbsp;<a href="https://github.com/t101804/Multi-Detector/discussions/4">Features Requests</a>
+  <a href="#getting-started">Getting started</a>&nbsp;|&nbsp;<a href="https://github.com/t101804/Multi-Detector/issues">Add Requests</a>&nbsp;|&nbsp;<a href="https://t.me//DailyToolz">Get The Password Zip File</a>&nbsp;|&nbsp;<a href="https://github.com/t101804/Multi-Detector/discussions/4">Features Requests</a>
 </p>
 
 ![Alt](https://repobeats.axiom.co/api/embed/02a5c8597d097be2efd92b998caa68c664c29e71.svg "Repobeats analytics image")
